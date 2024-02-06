@@ -1,1 +1,1 @@
-A practive project for using html and css, using AOS for simple fade animation
+A practice project using HTML and CSS, using AOS for simple fade animation
